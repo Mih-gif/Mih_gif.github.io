@@ -2,7 +2,7 @@
 
 Классическая игра "Виселица" на JavaScript с использованием IndexedDB для сохранения прогресса.
 
-## [Играть онлайн](https://ВАШ_ЛОГИН.github.io/hangman-game)
+## [Играть онлайн](https://mih-gif.github.io/Mih_gif.github.io/)
 
 ## Функции
 - Угадывание букв и слов
@@ -13,4 +13,5 @@
 ## Технологии
 - HTML5, CSS3, JavaScript
 - IndexedDB
+
 - GitHub Pages
